@@ -1,2 +1,2 @@
 # NRT-KAFKA
-A data pipeline for SHARPS to kafka clusters.
+A data pipeline for ingesting SHARPS to kafka.
